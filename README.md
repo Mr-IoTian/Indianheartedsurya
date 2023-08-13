@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Indianheartedsurya(Suraj Maurya)
+- 👋 Hi, I’m @Suraj Maurya
 - 👀 I’m interested in {"IoT", "AI"}
 - 🌱 I’m currently learning Web D, AI
 - 💞️ I’m looking to collaborate on LinkedIN
