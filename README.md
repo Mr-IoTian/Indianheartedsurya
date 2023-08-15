@@ -8,7 +8,7 @@
 
 | Hello | Hii | Hoo |
 | ---      | ---      | ---      |
-|[![Indianheartedsurya's GitHub | Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | Huu | hii |
+|![Indianheartedsurya's GitHub | Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | Huu | hii |
 
 
 
