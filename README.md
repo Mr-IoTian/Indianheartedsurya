@@ -5,7 +5,7 @@
 - 📫 How to reach me URL("https://www.linkedin.com/in/suraj-maurya-india/")
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true)
 
-
+## Profile
 | Hello | Hii | Hoo |
 | ---      | ---      | ---      |
 |[![Indianheartedsurya's GitHub - Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | [![Indianheartedsurya's GitHub - Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) |[![Indianheartedsurya's GitHub - Topics Over Time](https://stats.quine.sh/Indianheartedsurya/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) |
