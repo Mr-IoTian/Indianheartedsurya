@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web D, AI
 - 💞️ I’m looking to collaborate on LinkedIN
 - 📫 How to reach me URL("https://www.linkedin.com/in/suraj-maurya-india/")
-- ##  Stats 
+ ##  Stats 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true)
 
 ## Profile
