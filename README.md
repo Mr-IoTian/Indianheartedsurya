@@ -6,7 +6,7 @@
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true)
 
 
-| Header 1 | Header 2 | Header 3 |
+| Hello | Hii | Hoo |
 | ---      | ---      | ---      |
 |  [![Indianheartedsurya's GitHub | Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)   | [![Indianheartedsurya's GitHub | Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)  | [![Indianheartedsurya's GitHub | Topics Over Time](https://stats.quine.sh/Indianheartedsurya/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) |
 
