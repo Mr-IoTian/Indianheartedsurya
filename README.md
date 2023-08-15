@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LinkedIN
 - 📫 How to reach me URL("https://www.linkedin.com/in/suraj-maurya-india/")
 
-![Github Stats]https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true)
 <!---
 Indianheartedsurya/Indianheartedsurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
