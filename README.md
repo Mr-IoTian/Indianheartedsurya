@@ -3,12 +3,17 @@
 - 🌱 I’m currently learning Web D, AI
 - 💞️ I’m looking to collaborate on LinkedIN
 - 📫 How to reach me URL("https://www.linkedin.com/in/suraj-maurya-india/")
-![Github Stats]<img src="(https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true)" alt="Image Alt Text" width="100" height="100">
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=indianheartedsurya&show_icons=true&theme=algolia&border=true)
+
+
+| Header 1 | Header 2 | Header 3 |
+| ---      | ---      | ---      |
+|  [![Indianheartedsurya's GitHub | Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)   | [![Indianheartedsurya's GitHub | Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)  | [![Indianheartedsurya's GitHub | Topics Over Time](https://stats.quine.sh/Indianheartedsurya/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) |
 
 
 
-| [![Indianheartedsurya's GitHub | Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | [![Indianheartedsurya's GitHub | Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | [![Indianheartedsurya's GitHub | Topics Over Time](https://stats.quine.sh/Indianheartedsurya/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)
-|---|---|---|
+
+
 <!---
 Indianheartedsurya/Indianheartedsurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
