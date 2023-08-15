@@ -10,7 +10,7 @@
 |[![Indianheartedsurya's GitHub - Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)|[![Indianheartedsurya's GitHub - Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya)|[![Indianheartedsurya's GitHub - Topics Over Time](https://stats.quine.sh/Indianheartedsurya/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) 
 |:---:|:---:|:---:|
 | GitHub OverTime | Topics | Languages |
-### *Click to view
+###### *Click to view
 
 
 
