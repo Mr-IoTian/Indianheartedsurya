@@ -8,7 +8,7 @@
 
 | Hello | Hii | Hoo |
 | ---      | ---      | ---      |
-|![Indianheartedsurya's GitHub - Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | [![Indianheartedsurya's GitHub- Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | hii |
+|![Indianheartedsurya's GitHub - Stats](https://stats.quine.sh/Indianheartedsurya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | ![Indianheartedsurya's GitHub- Languages Over Time](https://stats.quine.sh/Indianheartedsurya/languages-over-time?theme=dark)(https://quine.sh?utm_source=widgets&utm_campaign=Indianheartedsurya) | hii |
 
 
 
